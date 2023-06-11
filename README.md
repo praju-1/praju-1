@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prajakta</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=praju-1&label=Profile%20views&color=0e75b6&style=flat" alt="prajakta" /> </p>
 Here is What i am working on ....
 
 - 🔭 I’m currently working on... Python and framework for development in python with its libraries as Numpy, Pandas.
