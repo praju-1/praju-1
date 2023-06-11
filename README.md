@@ -16,3 +16,6 @@ Here is What i am working on ....
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+  
+  
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=praju-1&theme=dark&border_radius=5" alt="prajakta" /></p>
