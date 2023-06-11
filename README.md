@@ -19,3 +19,5 @@ Here is What i am working on ....
   
   
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=praju-1&theme=dark&border_radius=5" alt="prajakta" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=praju-1&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" alt="prajakta" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=praju-1&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" alt="prajakta" /></p>
