@@ -1,16 +1,29 @@
 <h1 align="center">Hi 👋, I'm Prajakta</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=praju-1&label=Profile%20views&color=0e75b6&style=flat" alt="prajakta" /> </p>
-Here is What i am working on ....
+Here is What i am working on ...
 
-- 🔭 I’m currently working on... Python and framework for development in python with its libraries as Numpy, Pandas.
+🚀 **Currently Exploring the Cosmos of Code!**
+
+🔭 **Venturing into Python's Realm:**
+     - Delving deep into Python and its magical frameworks, particularly Django, and harnessing the powers of libraries like NumPy and Pandas to craft extraordinary applications.
+
+🌱 **Nurturing a Garden of Knowledge:**
+    - Cultivating my understanding of Data Science and Machine Learning, sowing the seeds of curiosity, and watching my skills flourish.
+
+  🤔 **Quest for Wisdom:**
+     - Embarking on a quest for knowledge in Machine Learning projects, seeking the wisdom of seasoned adventurers to guide me on my journey.
+
   
-- 🌱 I’m currently learning....Data Science, Machine Learning 
+😉 **Fun Fact:**
+     - I thrive on self-motivation and the thrill of unraveling complex problems, like a code-savvy detective on a mission.
+
+🌟 **Mission Control:**
+     - Always on the lookout for opportunities to collaborate, share my expertise, and contribute to projects that make a positive impact.
+
   
-- 🤔 I’m looking for help... with Machine Learning projects.
-  
-- 😉 Fun Fact...Self motivated
-  
--  Looking for opportunities to apply my skill set to help others. 
+📫 **Transmission Incoming:**
+     - Reach out to me at prajaktatayde26@gmail.com to connect, collaborate, or share your favorite coding anecdotes. Let's explore the infinite possibilities together!
+
 
 - 📫 How to reach me **prajaktatayde26@gmail.com**
 
