@@ -1,34 +1,59 @@
-<h1 align="center">Hi 👋, I'm Prajakta</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=praju-1&label=Profile%20views&color=0e75b6&style=flat" alt="prajakta" /> </p>
-Here is What i am working on ...
+# 👋 Hi, I'm Prajakta Tayde
 
-🚀 **Currently Exploring the Cosmos of Code!**
+A passionate **Full Stack Developer** & **Data Scientist** blending the power of the **MERN stack** and **machine learning** to craft smart and scalable solutions.
 
-🔭 **Venturing into Python's Realm:**
-     - Delving deep into Python and its magical frameworks, particularly Django, and harnessing the powers of libraries like NumPy and Pandas to craft extraordinary applications.
+---
 
-🌱 **Nurturing a Garden of Knowledge:**
-    - Cultivating my understanding of Data Science and Machine Learning, sowing the seeds of curiosity, and watching my skills flourish.
+## 🚀 About Me
 
-  🤔 **Quest for Wisdom:**
-     - Embarking on a quest for knowledge in Machine Learning projects, seeking the wisdom of seasoned adventurers to guide me on my journey.
+- 💻 Currently building dynamic full-stack applications using **MongoDB, Express, React, Node.js**
+- 🧠 Working on machine learning projects using **Python, Pandas, NumPy, scikit-learn**
+- 🛠️ Experienced with backend development in **Django**, APIs, and data integration
+- 🔍 Exploring data science with a strong mathematical foundation (Master's in Mathematics)
+- 📊 Love visualizing data and solving real-world problems through analytics and clean design
+- 🌱 Always learning new technologies and frameworks to stay ahead
 
-  
-😉 **Fun Fact:**
-     - I thrive on self-motivation and the thrill of unraveling complex problems, like a code-savvy detective on a mission.
+---
 
-🌟 **Mission Control:**
-     - Always on the lookout for opportunities to collaborate, share my expertise, and contribute to projects that make a positive impact.
+## 💻 Tech Stack
 
-  
-📫 **Transmission Incoming:**
-     - Reach out to me at prajaktatayde26@gmail.com to connect, collaborate, or share your favorite coding anecdotes. Let's explore the infinite possibilities together!
+### 🚀 Languages & Frameworks
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
+
+### 📊 Tools & Platforms
+
+![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
+![Render](https://img.shields.io/badge/-Render-2A6ADF?style=flat&logo=render&logoColor=white)
+
+---
 
 
-<h3 align="left">Languages and Tools:</h3>
+## 🌟 Contribution Graph
 
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="python" width="60" height="60"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg"alt="python" width="60" height="60"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="python" width="60" height="60"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" alt="python" width="60" height="60"/> </a>  <a href=" https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg"alt="python" width="60" height="60"/> </a> <a href=" https://www.tensorflow.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"alt="python" width="60" height="60"/> </a><a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="60" height="60"/> </a>  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="60" height="60"/> </a> <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" alt="seaborn" width="60" height="60"/> </a>    <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="seaborn" width="60" height="60"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="react" width="60" height="60"/> </a> 
-  
+ ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=praju-1&theme=react-dark)
+
+---
+
+## 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prajakta-tayde/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-orange?style=flat&logo=firefox&logoColor=white)]()
+[![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white)](mailto:prajaktatayde26@gmail.com)
+
+---
   
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=praju-1&theme=dark&border_radius=5" alt="prajakta" /></p>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=praju-1&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" alt="prajakta" /></p>
