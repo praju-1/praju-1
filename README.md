@@ -40,13 +40,6 @@ A passionate **Full Stack Developer** & **Data Scientist** blending the power of
 
 ---
 
-
-## 🌟 Contribution Graph
-
- ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=praju-1&theme=react-dark)
-
----
-
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prajakta-tayde/)
